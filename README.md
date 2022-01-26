@@ -1,7 +1,10 @@
-# Vue 3 + Vite
+Aplikasi sederhana Todo List yang dibuat menggunakan framework Vue JS.
+---
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+### Fitur aplikasi ini berupa :
+1. Add => Untuk menambahkan daftar Todo
+2. Done => Untuk menyelesaikan Todo yang sudah dilakukan (text Todo tersebut akan di strikethrough)
+3. Cancel => Untuk merubah Todo yang sudah dilakukan menjadi belum dilakukan (text Todo yang tadinya di strikethrough akan kembali seperti semula)
+4. Delete => Untuk menghapus Todo yang dipilih dari daftar Todo
 
-## Recommended IDE Setup
-
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+![myfile](https://github.com/novaldwp/todo-app-vue/blob/main/src/assets/demo-todo-app.gif)
